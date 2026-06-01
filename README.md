@@ -2,8 +2,8 @@
 
 ### Full-Stack Developer (MERN)
 
-# I build web applications with React, Node.js, Express, and MongoDB.
-# Currently looking for Full-Stack Developer roles.
+I build web applications with React, Node.js, Express, and MongoDB.
+Currently looking for Full-Stack Developer roles.
 ---
 
 ## 🛠 Tech stack
