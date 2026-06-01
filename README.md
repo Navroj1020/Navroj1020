@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Navroj 👋
 
-<!--
-**Navroj1020/Navroj1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer (MERN)
 
-Here are some ideas to get you started:
+I build web applications with React, Node.js, Express, and MongoDB.
+Currently looking for Full-Stack Developer roles.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Frontend:** React.js, Vite, TailwindCSS  
+**Backend:** Node.js, Express.js, MongoDB, SQL  
+**Tools:** Git, JWT, REST APIs  
+**Certifications:** CCNA · DevNet Associate · Full Stack Dev
+
+---
+
+### 🚀 Featured Projects
+
+- **[Expense Tracker](https://github.com/navroj/expense-tracker)** — Full-stack MERN app for tracking income & expenses, deployed on Vercel + Render
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/navroj-shankar/)
