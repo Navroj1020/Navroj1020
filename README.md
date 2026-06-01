@@ -24,7 +24,7 @@ Currently looking for Full-Stack Developer roles.
 
 ### 🚀 Featured Projects
 
-- **[Expense Tracker](https://github.com/navroj/expense-tracker)** — Full-stack MERN app for tracking income & expenses, deployed on Vercel + Render
+- **[Expense Tracker](https://github.com/Navroj1020/ExpenseTracker)** — Full-stack MERN app for tracking income & expenses, deployed on Vercel + Render
 
 ---
 
