@@ -2,8 +2,8 @@
 
 ### Full-Stack Developer (MERN)
 
-I build web applications with React, Node.js, Express, and MongoDB.
-Currently looking for Full-Stack Developer roles.
+# I build web applications with React, Node.js, Express, and MongoDB.
+# Currently looking for Full-Stack Developer roles.
 ---
 
 ## 🛠 Tech stack
@@ -31,3 +31,4 @@ Currently looking for Full-Stack Developer roles.
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/navroj-shankar/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:navroj9994@gmail.com)
