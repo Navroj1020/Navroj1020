@@ -23,8 +23,8 @@ Currently looking for Full-Stack Developer roles.
 ---
 
 ### 🚀 Featured Projects
+| Expense Tracker | [Live ↗](https://expense-tracker-sage-xi.vercel.app/login) · [Code](https://github.com/Navroj1020/ExpenseTracker) | React, NodeJS, MongoDB |
 
-- **[Expense Tracker](https://github.com/Navroj1020/ExpenseTracker)** — Full-stack MERN app for tracking income & expenses, deployed on Vercel + Render
 
 ---
 
